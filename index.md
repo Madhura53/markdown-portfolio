@@ -1,5 +1,5 @@
-- item
-layout: default
+---
+* item layout: default
 ---
 
 {% include 01-name.md %}
